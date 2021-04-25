@@ -1,6 +1,6 @@
 ## Charlie Slater
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+BSc Chemistry graduate from the University of Leicester. I completed a React course on Udemy and a Python course on Codecademy, which sparked my interest in software development. Currently studying at Makers.
 
 ## Projects
 
@@ -11,15 +11,19 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Screen With Envy** (2020 - 2021)  
+_Warehouse Operative_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Responsible for picking, packing, stock check and other duties.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Nozawa Onsen Ski School** (Autumn 2015 - Spring 2016)  
+_Ski Instructor_
 
-- Any experience relevent to software development
+- Developed strong working relationships with clients by communicating effectively to encourage active participation and optimise enjoyment and progression within the lessons.
+
+- Planned lessons carefully and appropriately based on the client’s ability.
+
+- Good organisation, attention to detail, as well as creativity and enthusiasm were fundamental to the success of the lessons.
 
 ## Skills
 
@@ -52,21 +56,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2021 - July 2021)
 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Currently attending
 
-#### Your University / College (start_date to end_date)
+#### University of Leicester (2016 - 2019)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Chemistry
+- 2:1
 
 #### Any other qualifications
 
@@ -74,4 +71,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I have enjoyed playing the drums for 13 years, learning new music and bettering my ability through practice. I particularly enjoy performing in a band at live gigs!
+I also love bouldering, challenging myself with new problems both mentally and physically, and always giving myself something new to work towards.
