@@ -1,15 +1,15 @@
 ## Charlie Slater
 
-BSc Chemistry graduate from the University of Leicester. I completed a React course on Udemy and a Python course on Codecademy, which sparked my interest in software development. Recently graduated from Makers software bootcamp.
+BSc Chemistry graduate from the University of Leicester. I completed a React course on Udemy and a Python course on Codecademy, which sparked my interest in software development. Recently graduated from Makers software bootcamp where I was taught the importance of best coding practices. I'd love to work in a supportive environment where those practices are followed.
 
 ## Projects
 
-| Name                                                               | Description                                                                                 | Tech/tools                                                                                    |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [**Hang-git**](https://github.com/cms718/hang-git)                 | Final project at Makers. Educational web app to help junior developers learn git commmands. | MongoDB, Express, React and Node. React Testing Library, Jest, Heroku, CircleCI, and Mongoose |
-| [**MakersBnB**](https://github.com/cms718/makersbnb)               | A group project to build an Airbnb clone.                                                   | Ruby on Rails, Sinatra, PostgreSQL, Bcrypt, Bootstrap, RSpec, Capybara                        |
-| [**Acebook**](https://github.com/cms718/acebook-rails-The-Wallies) | A group project to produce a social media platform using rails.                             | Rails, Rspec, SimpleCov                                                                       |
-| [**Bank Tech test**](https://github.com/cms718/bank-tech-test)     | A mock tech test to build a simple banking application using TDD and OOD principles.        | Ruby, Sinatra, PostgreSQL, Bcrypt, Bootstrap, RSpec, Capybara                                 |
+| Name                                                               | Description                                                                                | Tech/tools                                                                                    |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| [**Hang-git**](https://github.com/cms718/hang-git)                 | Final project at Makers. Educational web app to help junior developers learn git commands. | MongoDB, Express, React and Node. React Testing Library, Jest, Heroku, CircleCI, and Mongoose |
+| [**MakersBnB**](https://github.com/cms718/makersbnb)               | A group project to build an Airbnb clone.                                                  | Ruby on Rails, Sinatra, PostgreSQL, Bcrypt, Bootstrap, RSpec, Capybara                        |
+| [**Acebook**](https://github.com/cms718/acebook-rails-The-Wallies) | A group project to produce a social media platform using Rails.                            | Ruby, Sinatra, PostgreSQL, Bcrypt, Bootstrap, RSpec, Capybara                                 |
+| [**Bank Tech test**](https://github.com/cms718/bank-tech-test)     | A mock tech test to build a simple banking application using TDD and OOD principles.       | Ruby, RSpec, SimpleCov                                                                        |
 
 ## Work Experience
 
@@ -22,34 +22,34 @@ _Ski Instructor_
 
 - Good organisation, attention to detail, as well as creativity and enthusiasm were fundamental to the success of the lessons
 
+**Screen With Envy** (November 2020 - March 2021)  
+_Warehouse Operative_
+
+- Responsible for picking, packing, stock check and other duties.
+
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Initiative
 
--STAR
--What was the situation/task? (ST)
+While doing a project as part of the Makers course, I noticed that our codebase was inconsistent which was making it difficult to review PR’s. To fix this, I instigated and coordinated the adoption of the Airbnb react style guide standards.
 
--How was the skill used?
+In another role as a warehouse operative, I noticed an inefficiency in the stock layout and suggested an improvement. The suggestion was immediately implemented, and resulted in a measurable increase in daily orders dispatched.
 
--What did you do? (action)
+#### Interpersonal Skills
 
--What was the result?
+Working as a ski instructor required communication of difficult to express ideas about body mechanics. I developed several methods of abstracting concepts to explain them in a beginner-friendly way. This improved my ability to exchange ideas in a clear way.
 
-#### This Skill
+Additionally, I have played in multiple bands, which involves regular group practice. As part of this, we would often have to discuss individual performance in specific sections or songs. This has made me adept at giving open constructive feedback in a friendly manner, as well as reflecting and improving on feedback that I am given.
 
-- Experience
-- Achievements
-- Evidence (STAR)
+#### Fast Learner
 
-#### Another Skill
+I went from no musical background to grade 8 standard on drums in just 3 years, this made it possible for me to join a band at 15 doing paid gigs at pubs and functions.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+As part of the Makers final project we needed to set up a backend using a stack that wasn't part of the course. Using only online documentation and my own intuition, I was able to learn enough to deploy it in 1 day by myself. Backend can be found [**here**](https://github.com/cms718/hang-git-backend).
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Desire to Learn & Improve
+
+I initially started self teaching software development using resources such as Codecademy and Udemy, but wasn't happy with the pace of my progression. I sought out a bootcamp to accelerate this. As a result, I am not only more comfortable with programming itself but also with best practices, working in a team, and time management.
 
 ## Education
 
@@ -60,15 +60,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Worked using a modern Agile methodology, including standups, retros, and sprint planning
 - Learned and applied various software design principles (OOP, TDD, MVC, SOLID)
 - Developed familiarity with git version control and CI/CD (Travis, Circle CI, Heroku)
-- Created [an educational web-app](https://team-hang-git.herokuapp.com/) to help aspiring developers become familiar with git commands. Used MongoDB, Node and Express to build an API which serves a React frontend. Tested with Jest/React Testing Libary.
-- Developed [a social media app](https://aqueous-harbor-18057.herokuapp.com/) using rails, hosted on Heroku, with a PostgreSQL database. API manages CRUD operations.
 
 #### University of Leicester (2016 - 2019)
 
 - BSc Chemistry
 - 2:1
 - Required analytical thinking to gather critical insights from experimental data
-- Continuously developing problem solving skills, often breaking down problems into smaller, more manageable tasks
+- Continuously developed problem solving skills, often breaking down problems into smaller, more manageable tasks
 
 ## Hobbies
 
