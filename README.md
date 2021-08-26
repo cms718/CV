@@ -27,7 +27,7 @@ _Bartender & Waiter_
 
 - Communicating clearly and professionally to ensure a positive customer experience
 
-- Resilience was required when working in high pressure environment, constantly multitasking to deal with multiple customers needs at once, whilst maintaining a professional image
+- Resilience was required when working in a high pressure environment, constantly multitasking to deal with multiple customers needs at once, whilst maintaining a professional image
 
 - Often had to rely on my own initiative to handle unfamiliar tasks or situations when responding to customers' needs
 
